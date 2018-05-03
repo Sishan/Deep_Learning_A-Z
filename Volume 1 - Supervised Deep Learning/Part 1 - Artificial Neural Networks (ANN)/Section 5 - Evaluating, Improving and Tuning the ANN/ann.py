@@ -64,7 +64,7 @@ classifier.add(Dense(units = 1, kernel_initializer = 'uniform', activation = 'si
 classifier.compile(optimizer = 'adam', loss = 'binary_crossentropy', metrics = ['accuracy'])
 
 # Fitting the ANN to the Training set
-classifier.fit(X_train, y_train, batch_size = 10, epochs = 100)
+classifier.fit(X_train, y_train, batch_size = 10, epochs = 10)
 
 # Part 3 - Making predictions and evaluating the model
 
@@ -75,3 +75,5 @@ y_pred = (y_pred > 0.5)
 # Making the Confusion Matrix
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
+
+print (cm)
