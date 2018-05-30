@@ -1,5 +1,5 @@
 # Deep Learning A-Z: Hands on Artificial Neural Networks
-Course notes and sample codes for deep learning A-Z
+Course notes and sample codes for deep learning
 
 ## Course Content:
 
