@@ -3,14 +3,18 @@ Course notes and sample codes for deep learning
 
 ## Course Content:
 
-### Part 1: Artificial Neural Networks
+### Volume 1: Supervised Deep Learning
 
-### Part 2: Convolutional Neural Networks
+* Part 1: Artificial Neural Networks
 
-### Part 3: Recurrent Neural Networks
+* Part 2: Convolutional Neural Networks
 
-### Part 4: Self Organizing Maps
+* Part 3: Recurrent Neural Networks
 
-### Part 5: Boltzmann Machines
+### Volume 2 - Unsupervised Deep Learning
 
-### Part 6: AutoEncoders
+* Part 4: Self Organizing Maps
+
+* Part 5: Boltzmann Machines
+
+* Part 6: AutoEncoders
